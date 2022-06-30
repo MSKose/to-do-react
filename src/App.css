@@ -1,5 +1,7 @@
 body {
-    background-image: url('./img/background_yellow.jpeg');
+    background: url('./img/background_yellow.jpeg') no-repeat center center fixed;
+    background-size: cover;
+
   }
   
   #btncheck1:checked ~ #textP {
@@ -17,6 +19,7 @@ body {
     }
   
     body {
-      background: url(./img/background_yellow.jpeg) no-repeat center center fixed;
+      background: url(./img/background_yellow.jpeg) center;
+
     }
   }

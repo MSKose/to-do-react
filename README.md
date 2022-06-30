@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+[Click here to see live site](https://mskose-to-do-react.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
